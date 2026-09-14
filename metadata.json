@@ -1,0 +1,6 @@
+{
+  "name": "معالج وتجميع بيانات الشحنات - Shipment Aggregator",
+  "description": "تجميع وتلخيص بيانات الشحنات تلقائياً ودمج الأكواد المتكررة وتحديد نوع الشحنة (بحري / جوي)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
